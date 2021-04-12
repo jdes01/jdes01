@@ -1,11 +1,11 @@
 ## 🙇🏻‍♂️ About me
-Hi! I'm Javier, a computer engineering student from Cordoba, Spain 🇪🇸📍
+Whats good! I'm Javier, a BSc IT student from Cordoba, Españita 🇪🇸📍
 
 <br>
 
 <!--
 
-## 📫 My Social Networks
+## 📫 Where I am?
 
 [![My Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSBptDxGDcTffHjsdDCPGrxJwBhbPKWVsZLKDcRTznDwnvZZgqDpwshCBkqHFwHBBwwrpSWS)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-moruno-gracia-8b9bb9200/)
@@ -18,7 +18,7 @@ Hi! I'm Javier, a computer engineering student from Cordoba, Spain 🇪🇸📍
 
 ## 📚 Learning 
 
--> Computer Engineering at the [University of Córdoba](http://www.uco.es/)
+-> BSc IT at the [University of Córdoba](http://www.uco.es/)
 
 -> Wildin' at [Aula de Software Libre](https://www.uco.es/aulasoftwarelibre/) as Coordination Delegate
 
@@ -31,12 +31,12 @@ Hi! I'm Javier, a computer engineering student from Cordoba, Spain 🇪🇸📍
   <br>
   [![Angular](https://img.shields.io/badge/Angular-E02F2F?style=for-the-badge&logo=angular&logoColor=white)]()
   [![TypeScript](https://img.shields.io/badge/TypeScript-24A2E9?style=for-the-badge&logo=TypeScript&logoColor=white)]()
-  [![HTML](https://img.shields.io/badge/HTML-F16616?style=for-the-badge&logo=HTML&logoColor=white)]()
-  [![CSS](https://img.shields.io/badge/CSS-24A2E9?style=for-the-badge&logo=CSS&logoColor=white)]()
   <br>
   [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
   [![VS Code](https://img.shields.io/badge/VSCode-2490D5?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)]()
+  [![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)]()
+  
 
 <br>
 
