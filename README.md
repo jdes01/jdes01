@@ -1,4 +1,4 @@
-## 🙇🏻‍♂️ About me
+## 🤠 About me
 Whats good! I'm Javier, a BSc IT student from Cordoba, Españita 🇪🇸📍
 
 My Gmail ➡️ jasampa3000@gmail.com
