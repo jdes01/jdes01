@@ -3,18 +3,13 @@ Whats good! I'm Javier, a BSc IT student from Cordoba, Españita 🇪🇸📍
 
 <br>
 
-<!--
-
 ## 📫 Where I am?
 
-[![My Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSBptDxGDcTffHjsdDCPGrxJwBhbPKWVsZLKDcRTznDwnvZZgqDpwshCBkqHFwHBBwwrpSWS)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-moruno-gracia-8b9bb9200/)
-[![My Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Moruno21)
-[![My Instagram](https://img.shields.io/badge/-INSTAGRAM-9718D6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moruno01/)
-[![My Twitter](https://img.shields.io/badge/-TWITTER-0CA0CB?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/moruno_2001)
+[![My Gmail] ➡️ jasampa3000@gmail.com
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-de-santiago-palomino-3795441a3)
+[![My Twitter](https://img.shields.io/badge/-TWITTER-0CA0CB?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jdes_01)
 
 <br>
--->
 
 ## 📚 Learning 
 
