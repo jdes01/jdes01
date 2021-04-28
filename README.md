@@ -1,7 +1,7 @@
 ## 🤠 About me
 Whats good! I'm Javier, a BSc IT student from Cordobita 📍
 
-Wildin' at [Aula de Software Libre](https://www.uco.es/aulasoftwarelibre/)  👨🏼‍🔧 as Coordination Delegate  
+Wildin' at [Aula de Software Libre](https://www.uco.es/aulasoftwarelibre/) 👨🏻‍🔧 as Coordination Delegate.
 
 <br>
 
