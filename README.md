@@ -3,9 +3,10 @@ Whats good! I'm Javier, a BSc IT student from Cordobita 📍
 
 Wildin' w/ Pep's Barça at [Aula de Software Libre](https://www.uco.es/aulasoftwarelibre/) 👨🏻‍🔧 as Coordination Delegate.
 
-Organized [SalmorejoTech 2021](https://salmorejo.tech/2021/) as External Relationships Coordiantor.
+[SalmorejoTech 2021](https://salmorejo.tech/2021/) 🍅 as External Relationships Coordiantor.
+[SalmorejoTech 2022](https://salmorejo.tech/2022/) 🍅 Coordination Manager.
 
-Currently fightin' agains infrastructure challenges at SalmorejoTech [SalmorejoTech](https://salmorejo.tech/2022/) 🍅 as Coordinator.
+Currently fightin' agains infrastructure challenges at Certainly [Certainly](https://certainly.io/) 🍅 as Backend trompo maker.
 
 ## 📫 
 
