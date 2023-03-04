@@ -5,7 +5,7 @@ Whats good! I'm Javier, a BSc IT student from Cordobita 📍
 
 [SalmorejoTech 2022](https://salmorejo.tech/2022/) 🍅 Coordination Manager.
 
-Currently fightin' agains infrastructure challenges at [Certainly](https://certainly.io/) 🍅 as Backend trompo maker.
+Currently fightin' agains infrastructure challenges at [Certainly](https://certainly.io/) as Backend trompo maker.
 
 ## 📫 
 
