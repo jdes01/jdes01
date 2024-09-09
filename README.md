@@ -7,7 +7,7 @@ Currently fightin' agains infrastructure challenges at [Tucuvi Care](https://tuc
 Ex [Certainly](https://certainly.io/)
 ## 📫 
 
-My Gmail ➡️ jasampa3000@gmail.com
+Reach me ➡️ jasampa3000@gmail.com
 
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-de-santiago-palomino-3795441a3)
 
