@@ -1,10 +1,10 @@
 ## 🤠 About me
-Whats good! I'm Javier, backend dev based in Spain 🌞 📍
+Whats good! I'm Javier, Software Engineer based in Spain 🌞 📍
 
 Passionate about learning and facing complex technical challenges.
 
-Currently fightin' agains infrastructure challenges at [Certainly](https://certainly.io/) as Backend dev.
-
+Currently fightin' agains infrastructure challenges at [Tucuvi Care](https://tucuvi.com/) as Software Engineer.
+Ex [Certainly](https://certainly.io/)
 ## 📫 
 
 My Gmail ➡️ jasampa3000@gmail.com
